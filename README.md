@@ -28,3 +28,8 @@ An IoT-based smart farming system designed to automate irrigation and monitor en
 ### 5. Cloud integration using PHP + MySQL (ATSPACE hosting)
 
 ### 6. Low power consumption suitable for agricultural fields
+
+
+### 📚 Conclusion
+
+This project provides a practical, low-cost, and scalable solution for smart farming. By combining low-power wireless sensor nodes, cloud automation, and a mobile app interface, the system enhances irrigation efficiency, conserves water, and reduces manual farming workload.
