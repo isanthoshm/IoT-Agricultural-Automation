@@ -59,7 +59,6 @@ HTTP API (GET requests)
 
 JSON Data Parsing
 
-HTML/PHP for cloud interface
 
 ## 📡 System Architecture
 1. Slave Node (Arduino Nano)
