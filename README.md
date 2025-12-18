@@ -15,7 +15,7 @@ An IoT-based smart farming system designed to automate irrigation and monitor en
 
         4.Light Intensity
 
- Real-time dashboard via Mobile App (MIT App Inventor) and Web UI
+ Real-time dashboard via Mobile App (MIT App Inventor)
 
   Automated irrigation based on:
 
